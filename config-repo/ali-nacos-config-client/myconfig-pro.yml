@@ -1,2 +1,3 @@
 easy:
+  hello: ali-nacos-config-client 的 pro config
   myconfig: ali-nacos-config-client的 myconfig config
